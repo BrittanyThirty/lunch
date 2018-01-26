@@ -1,0 +1,8 @@
+body {
+  font-size: 14px;
+  background-image: url("../img/freeway1.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
